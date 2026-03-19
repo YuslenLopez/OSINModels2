@@ -1,6 +1,15 @@
 #image directories and sound directories
 classes/
-SplitClasses/
+classes_split/
 boat_audio/
 whale_spec/
 whale_spec_split/
+
+
+classesFullSpec/
+classesFullSpec_split/
+NoiseFragments1/
+NoiseFragments2/
+NoiseFragments1_Augmented/
+NoiseFragments2_Augmented/
+combined_noise/
