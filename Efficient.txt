@@ -1,0 +1,11 @@
+EfficientNet Epoch 3/100
+Train Loss: 0.3542
+Val Loss: 0.3772
+Overall Accuracy: 78.35%
+Mean Class Accuracy: 87.37%
+Class 0 Accuracy: 91.50%
+Class 1 Accuracy: 100.00%
+Class 2 Accuracy: 59.46%
+Class 3 Accuracy: 98.52%
+Saved best model with Mean Class Accuracy: 87.37%
+

@@ -4,12 +4,23 @@ classes_split/
 boat_audio/
 whale_spec/
 whale_spec_split/
+whale_spec_split_better/
 
 
-classesFullSpec/
-classesFullSpec_split/
 NoiseFragments1/
 NoiseFragments2/
 NoiseFragments1_Augmented/
 NoiseFragments2_Augmented/
 combined_noise/
+Underwater_noise_aug/
+Underwater_noise_aug_spec/
+Underwater_noise_combined_spec/
+Underwater_noise_combined_spec_split/
+Underwater_noise_spec/
+Underwater_noise_spec_split/
+
+boatFullSpec/
+boatFullSpec_split/
+boatFullSpec_split_better/
+
+wmms_Spectrograms/
